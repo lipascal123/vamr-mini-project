@@ -2,7 +2,7 @@
 
 *Authors: Pascal Lieberherr, Elias Asikainen, Robin Frauenfelder, Silvan Löw*
 
-In this mini-project we implemented a monocular, visual odometry (VO) pipeline with the following features: initialization of 3D landmarks, keypoint tracking, between two frames, pose estimation using established 2D <-> 3D correspondances and triangulation of new landmarks. The VO pipeline was tested on different four different datasets.
+In this mini-project we implemented a monocular, visual odometry (VO) pipeline with the following features: initialization of 3D landmarks, keypoint tracking between two frames, pose estimation using established 2D <-> 3D correspondances and triangulation of new landmarks. The VO pipeline was tested on different four different datasets.
 
 ## Dependencies
 Following programs / tollboxes are needed:
