@@ -1,6 +1,6 @@
 # Vision Algorithms for Mobile Robotics: Mini Project
 
-*Authors: Elias Asikainen, Robin Frauenfelder, Pascal Lieberherr, Silvan Löw*
+*Authors: Pascal Lieberherr, Elias Asikainen, Robin Frauenfelder, Silvan Löw*
 
 In this Reposotory are all files needed to reproduce the results of our visulal odometry pipeline.
 
